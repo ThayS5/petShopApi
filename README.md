@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Adonis API application
 
 This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
@@ -26,3 +27,7 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+=======
+# petShopApi
+Projeto para talk
+>>>>>>> 7c75d5c8cdad75b4d24dd26e891640f82941b29a
